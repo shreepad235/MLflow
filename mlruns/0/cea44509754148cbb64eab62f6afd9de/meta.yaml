@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ineuron/codes/mlflow/mlruns/0/cea44509754148cbb64eab62f6afd9de/artifacts
+end_time: 1688368618595
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cea44509754148cbb64eab62f6afd9de
+run_name: likeable-fish-273
+run_uuid: cea44509754148cbb64eab62f6afd9de
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688368612484
+status: 3
+tags: []
+user_id: shree

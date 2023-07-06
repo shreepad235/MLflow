@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ineuron/codes/mlflow/mlruns/0/8097a9fb382f468292d1791a851b549e/artifacts
+end_time: 1688368644789
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8097a9fb382f468292d1791a851b549e
+run_name: popular-lark-966
+run_uuid: 8097a9fb382f468292d1791a851b549e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688368638873
+status: 3
+tags: []
+user_id: shree

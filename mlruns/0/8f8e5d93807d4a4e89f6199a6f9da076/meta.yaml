@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ineuron/codes/mlflow/mlruns/0/8f8e5d93807d4a4e89f6199a6f9da076/artifacts
+end_time: 1688368906151
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 8f8e5d93807d4a4e89f6199a6f9da076
+run_name: bedecked-skink-996
+run_uuid: 8f8e5d93807d4a4e89f6199a6f9da076
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688368899798
+status: 3
+tags: []
+user_id: shree

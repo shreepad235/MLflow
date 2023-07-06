@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ineuron/codes/mlflow/mlruns/0/6383c591ca9849b9b1c269eefd5c163e/artifacts
+end_time: 1688368670111
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6383c591ca9849b9b1c269eefd5c163e
+run_name: chill-horse-587
+run_uuid: 6383c591ca9849b9b1c269eefd5c163e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688368663932
+status: 3
+tags: []
+user_id: shree

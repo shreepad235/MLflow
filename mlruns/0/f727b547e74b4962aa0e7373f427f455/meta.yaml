@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ineuron/codes/mlflow/mlruns/0/f727b547e74b4962aa0e7373f427f455/artifacts
+end_time: 1688368800105
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f727b547e74b4962aa0e7373f427f455
+run_name: casual-goose-997
+run_uuid: f727b547e74b4962aa0e7373f427f455
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688368798956
+status: 4
+tags: []
+user_id: shree

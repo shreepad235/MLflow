@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ineuron/codes/mlflow/mlruns/0/98fdaab0f1fd47e3b16ea44ff50d82fd/artifacts
+end_time: 1688368813578
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 98fdaab0f1fd47e3b16ea44ff50d82fd
+run_name: brawny-fly-407
+run_uuid: 98fdaab0f1fd47e3b16ea44ff50d82fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688368806735
+status: 3
+tags: []
+user_id: shree

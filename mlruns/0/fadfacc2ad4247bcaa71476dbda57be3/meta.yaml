@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ineuron/codes/mlflow/mlruns/0/fadfacc2ad4247bcaa71476dbda57be3/artifacts
+end_time: 1688368592286
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: fadfacc2ad4247bcaa71476dbda57be3
+run_name: burly-foal-598
+run_uuid: fadfacc2ad4247bcaa71476dbda57be3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688368583139
+status: 3
+tags: []
+user_id: shree

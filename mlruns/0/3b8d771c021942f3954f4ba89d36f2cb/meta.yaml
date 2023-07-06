@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ineuron/codes/mlflow/mlruns/0/3b8d771c021942f3954f4ba89d36f2cb/artifacts
+end_time: 1688319180948
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3b8d771c021942f3954f4ba89d36f2cb
+run_name: legendary-crow-358
+run_uuid: 3b8d771c021942f3954f4ba89d36f2cb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688319174330
+status: 3
+tags: []
+user_id: shree

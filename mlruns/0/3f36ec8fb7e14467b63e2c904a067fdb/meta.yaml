@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ineuron/codes/mlflow/mlruns/0/3f36ec8fb7e14467b63e2c904a067fdb/artifacts
+end_time: 1688368657572
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3f36ec8fb7e14467b63e2c904a067fdb
+run_name: treasured-eel-837
+run_uuid: 3f36ec8fb7e14467b63e2c904a067fdb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688368651187
+status: 3
+tags: []
+user_id: shree

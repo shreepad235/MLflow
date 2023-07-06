@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ineuron/codes/mlflow/mlruns/0/86b966ae1bfe447a8e194c726d992cea/artifacts
+end_time: 1688368853645
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 86b966ae1bfe447a8e194c726d992cea
+run_name: chill-sponge-587
+run_uuid: 86b966ae1bfe447a8e194c726d992cea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688368846778
+status: 3
+tags: []
+user_id: shree

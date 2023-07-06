@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ineuron/codes/mlflow/mlruns/0/eee398fe76a440019532cc0d3c2b66fe/artifacts
+end_time: 1688368682745
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: eee398fe76a440019532cc0d3c2b66fe
+run_name: aged-auk-267
+run_uuid: eee398fe76a440019532cc0d3c2b66fe
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688368676361
+status: 3
+tags: []
+user_id: shree

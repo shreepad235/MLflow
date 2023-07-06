@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ineuron/codes/mlflow/mlruns/0/4ea170eda838466f9e8b847e180bca1c/artifacts
+end_time: 1688318953013
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4ea170eda838466f9e8b847e180bca1c
+run_name: legendary-fly-892
+run_uuid: 4ea170eda838466f9e8b847e180bca1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688318951822
+status: 3
+tags: []
+user_id: shree

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ineuron/codes/mlflow/mlruns/0/bdfb2a14bc7f45b5995aff706d0349c2/artifacts
+end_time: 1688368792662
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bdfb2a14bc7f45b5995aff706d0349c2
+run_name: bittersweet-moth-779
+run_uuid: bdfb2a14bc7f45b5995aff706d0349c2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688368785016
+status: 3
+tags: []
+user_id: shree

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ineuron/codes/mlflow/mlruns/0/b020be08fe9d462298f36ee81f64964d/artifacts
+end_time: 1688318776695
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b020be08fe9d462298f36ee81f64964d
+run_name: powerful-auk-842
+run_uuid: b020be08fe9d462298f36ee81f64964d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688318775500
+status: 3
+tags: []
+user_id: shree

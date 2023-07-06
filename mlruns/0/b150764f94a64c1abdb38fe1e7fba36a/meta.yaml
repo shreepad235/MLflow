@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ineuron/codes/mlflow/mlruns/0/b150764f94a64c1abdb38fe1e7fba36a/artifacts
+end_time: 1688368737910
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b150764f94a64c1abdb38fe1e7fba36a
+run_name: lyrical-rat-186
+run_uuid: b150764f94a64c1abdb38fe1e7fba36a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688368729856
+status: 3
+tags: []
+user_id: shree

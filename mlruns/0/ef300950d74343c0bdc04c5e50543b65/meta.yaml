@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ineuron/codes/mlflow/mlruns/0/ef300950d74343c0bdc04c5e50543b65/artifacts
+end_time: 1688368751719
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ef300950d74343c0bdc04c5e50543b65
+run_name: abrasive-ape-319
+run_uuid: ef300950d74343c0bdc04c5e50543b65
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688368745232
+status: 3
+tags: []
+user_id: shree

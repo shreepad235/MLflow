@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ineuron/codes/mlflow/mlruns/0/9f7c45f3512f4277ba905869f54645b2/artifacts
+end_time: 1688368696750
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9f7c45f3512f4277ba905869f54645b2
+run_name: nebulous-vole-320
+run_uuid: 9f7c45f3512f4277ba905869f54645b2
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688368689019
+status: 3
+tags: []
+user_id: shree

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/ineuron/codes/mlflow/mlruns/0/948861c568bd416482562d93106e63e7/artifacts
+end_time: 1688368893426
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 948861c568bd416482562d93106e63e7
+run_name: illustrious-fowl-967
+run_uuid: 948861c568bd416482562d93106e63e7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1688368886596
+status: 3
+tags: []
+user_id: shree
